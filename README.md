@@ -1,2 +1,2 @@
 # today-i-learned
-... Something
+... something
